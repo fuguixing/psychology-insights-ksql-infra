@@ -1,0 +1,4 @@
+Access https://www.confluent.io/hub/ to download updated version of
+confluentinc-kafka-connect-elasticsearch ZIP file
+
+In order update debezium-connector-mysql, modify the version directly in Dockerfile
